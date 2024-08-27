@@ -39,6 +39,4 @@
 <h2> 🤳 Connect with me:</h2>
 
 [📫 jrroscoe94@gmail.com](mailto:jrroscoe94@gmail.com)
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: (https://www.linkedin.com/in/jeremy-roscoe-111882117/)
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jeremy-roscoe-111882117/)
