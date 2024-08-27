@@ -33,7 +33,7 @@
 - [Data Science Specialization (Coursera), Johns Hopkins University, 2018](https://www.coursera.org/account/accomplishments/specialization/certificate/BLVNPNDSP477)
 - [Introduction to SQL Certificate (Universal Class), 2016](https://imgur.com/UsAQ1Ia)
 - [Construction Induction White Card, 2016](https://imgur.com/N90WSdm)
-- [Bachelor of Arts (Mathematics), University of Otago, 2005](https://imgur.com/Fv4j5Rq)
+- [Bachelor of Science (Chemistry), University of Otago, 2005](https://imgur.com/Fv4j5Rq)
 - [Bachelor of Arts (Mathematics), University of Otago, 2005](https://imgur.com/onmKHAu)
 
 <h2> 🤳 Connect with me:</h2>
