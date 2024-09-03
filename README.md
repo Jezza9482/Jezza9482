@@ -8,7 +8,7 @@
   - [Changes in Vinho Verde wine quality perceptions](https://github.com/Jezza9482/Wine-quality-comparison)
   - [Sloan Digital Sky Survey: Stellar Classification](https://github.com/Jezza9482/SDSS)
   - [Filtering of Startalk transcripts to create scientifically relevant summaries](https://github.com/Jezza9482/Summarising-Startalk)
-  - [An investigation into Wellington Earthquakes]()
+  - [An investigation into Wellington Earthquakes](https://github.com/Jezza9482/Wellington-Quakes)
  
 - <b>R based</b>
   - [Text prediction algorithm](https://rpubs.com/Jezza9482/408445)
@@ -18,7 +18,10 @@
   - [Effects of Vitamin C on Guinea Pig tooth growth](https://rpubs.com/Jezza9482/289046)
   - [Effects of Severe Weather Events on Public Health and Community Economic Problems across the U.S.A from 1950 to Nov 2011](https://rpubs.com/Jezza9482/280285)
   - [Application of Central Limit Theorem to averages of simulated exponential variables](https://rpubs.com/Jezza9482/289047)
-
+ 
+- <b>Tableau</b>
+  - [New Zealand Large Earthquakes](https://public.tableau.com/app/profile/jeremy.roscoe/viz/NZLargeEarthquakes/EarthquakeMap)
+ 
 <h2>🎓 Certifications</h2>
 
 - [Professional Certificate in Data Science and Artificial Intelligence (Institute of Data), Curtin University, 2024]()
