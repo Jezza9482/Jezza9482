@@ -24,6 +24,7 @@
  
 <h2>🎓 Certifications</h2>
 
+- [Introduction to Tableau (DataCamp) 2024](https://www.datacamp.com/statement-of-accomplishment/course/08860c9c0b8c91a1bfc566c72887e6ae3de4eb58?raw=1)
 - [Professional Certificate in Data Science and Artificial Intelligence (Institute of Data), Curtin University, 2024](https://imgur.com/DoBA4h7)
 - [Statistical Thinking in Python (part two) (DataCamp) 2024](https://imgur.com/st7qcLe)
 - [Statistical Thinking in Python (part one) (DataCamp) 2024](https://imgur.com/FQR2uDS)
