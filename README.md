@@ -24,6 +24,8 @@
  
 <h2>🎓 Certifications</h2>
 
+- [AI for Productivity (Australian Institue of Management) 2025](https://mybadges.aim.com.au/e4e3a364-9542-4d26-ac98-798eaf7655c6#acc.n1fyXEFm)
+- [Construction Induction White Card, 2025](https://imgur.com/a/ix3VOxS)
 - [Introduction to Tableau (DataCamp) 2024](https://www.datacamp.com/statement-of-accomplishment/course/08860c9c0b8c91a1bfc566c72887e6ae3de4eb58?raw=1)
 - [Professional Certificate in Data Science and Artificial Intelligence (Institute of Data), Curtin University, 2024](https://imgur.com/DoBA4h7)
 - [Statistical Thinking in Python (part two) (DataCamp) 2024](https://imgur.com/st7qcLe)
